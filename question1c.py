@@ -12,4 +12,4 @@ while not finished:
 		guess = int(input("Too high. Guess again: "))
 	else:
 		finished = True
-print("Correct. It took you ",count," guess.")
+print("Correct. It took you ",count," guesses.")
